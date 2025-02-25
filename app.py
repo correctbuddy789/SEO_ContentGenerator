@@ -54,7 +54,7 @@ Directives:
 - The post should be in a Reddit style.
 - Some posts should have typos or informal language (like Hinglish if {company_name} is Indian).
 - The post should NOT look AI-generated.
-- Add specific details like location (cities where {company_name} operates), {company_name}'s tools, branch names, etc.
+- Add specific details aroung the context, make it look realistic.
 - Vary the character length of the Title, Post Body, and each Comment.
 - For comments, aim for a mix of lengths: some short, some medium, some longer (around 20-250 characters).
 - Don't overuse emojis.
